@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="107.09019mm"
+   height="76.970757mm"
+   viewBox="0 0 379.45342 272.73103"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="event.svg"
+   inkscape:export-filename="/home/shashank/Mythical/Github/mythical-calendar/static/img/event.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="156.7862"
+     inkscape:cy="52.215503"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="711"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-158.44775,-157.8772)">
+    <path
+       style="fill:#00abb6;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0"
+       d="m 159.6041,211.91529 377.79705,0 0,-27.27412 c -0.52819,-21.91699 -12.4289,-25.63797 -26.26396,-26.26397 l -320.21836,0 c -16.2974,3.23221 -33.80163,5.25761 -31.8198,26.76905 z"
+       id="path4136"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:0"
+       id="path4138"
+       cx="264.91251"
+       cy="187.67163"
+       rx="16.920055"
+       ry="17.172594" />
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:0"
+       id="path4138-3"
+       cx="418.70822"
+       cy="187.16655"
+       rx="16.920055"
+       ry="17.172594" />
+    <rect
+       style="fill:#00abb6;fill-opacity:1;stroke:#000000;stroke-width:1.11121833;stroke-opacity:0"
+       id="rect4155"
+       width="377.68585"
+       height="219.59697"
+       x="159.6597"
+       y="210.45566" />
+    <rect
+       style="fill:#0064ff;fill-opacity:1;stroke:#0039d6;stroke-opacity:0"
+       id="rect4161"
+       width="314.28571"
+       height="47.857143"
+       x="192.85715"
+       y="230.93364" />
+    <rect
+       style="fill:#b90054;fill-opacity:1;stroke:#ffffff;stroke-width:1.20276809;stroke-opacity:1"
+       id="rect4161-6"
+       width="343.36865"
+       height="63.36866"
+       x="177.95853"
+       y="288.53503" />
+    <rect
+       style="fill:#0064ff;fill-opacity:1;stroke:#0039d6;stroke-opacity:0"
+       id="rect4161-7"
+       width="314.28571"
+       height="47.857143"
+       x="192.85715"
+       y="363.43362" />
+  </g>
+</svg>

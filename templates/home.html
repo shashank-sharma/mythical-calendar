@@ -1,9 +1,67 @@
 {% load static %}
 <!DOCTYPE html>
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+ <!-- Compiled and minified CSS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css">
+
+  <!-- Compiled and minified JavaScript -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+
 <head>
 
 </head>
 <body>
-Hello, World!
+<h1>Mythical Calendar</h1>
+<h1>Hello, World!</h1>
+<h1>Hello, World!</h1>
+<h1>Hello, World!</h1>
+    <div class="parallax-container" style="height: 700px">
+    <img src="{% static '/img/logo.png' %}" class= "parallax" style="padding-left: 450px; padding-top: 100px; position: fixed" height="50%">
+    <div style="position: absolute;padding-left: 100px;color: white;opacity: 0.5rem;display: inline;float: left">
+    <h1>Add important events easily</h1>
+    <p class="flow-text">
+    	Some text to explain that using this feature is so awesome !
+    </p>
+    </div>
+    <img src="{% static '/img/bg-red.png' %}">
+    <img src="{% static '/img/event.png' %}" style="float: right;padding-right: 100px;padding-top: 200px">
+      <div class="parallax"><img src="{% static '/img/cal.png' %}"></div>
+    </div>
+
+
+    <div class="parallax-container" style="height: 700px">
+    <div style="position: absolute;padding-left: 100px;color: white;opacity: 0.5rem;display: inline;float: left">
+    <h1>Add important events easily</h1>
+    <p class="flow-text">
+    	Some text to explain that using this feature is so awesome !
+    </p>
+    </div>
+    <img src="{% static '/img/bg-red.png' %}">
+    <img src="{% static '/img/event.png' %}" style="float: right;padding-right: 100px;padding-top: 200px" class="paraa">
+      <div class="parallax"><img src="{% static '/img/cal.png' %}"></div>
+    </div>
+<h1>Hello, World!</h1>
+<h1>Hello, World!</h1>
+<h1>Hello, World!</h1>
+<h1>Hello, World!</h1>
+<h1>Hello, World!</h1>
+
+<script>
+    $(document).ready(function(){
+      $('.parallax').parallax();
+    });
+</script>
+<style>
+.paraa {
+  height: 600px;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  position: relative;
+}
+</style>
 </body>
 </html>
